@@ -54,12 +54,14 @@ section[data-testid="stSidebar"] h1 {
     margin: 0 2.25rem 0.2rem 0;
     font-size: 1.55rem;
     line-height: 1.25;
+    color: var(--text-main) !important;
 }
 
 section[data-testid="stSidebar"] h3 {
     margin: 0;
     font-size: 1rem;
     line-height: 1.35;
+    color: var(--text-main) !important;
 }
 
 section[data-testid="stSidebar"] [data-testid="stCaptionContainer"] {
