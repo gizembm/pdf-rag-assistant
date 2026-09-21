@@ -159,3 +159,5 @@ Aşağıdaki içerikler yalnızca yerel ortamda tutulur ve `.gitignore` aracıl�
 - Yerel belge ve sanal ortam klasörleri
 
 API anahtarınızı kaynak koduna eklemeyin veya Git deposuna göndermeyin. Cevap üretimi sırasında kullanıcı sorusu ile retrieval sonucunda seçilen belge parçaları Gemini API'ye iletilir.
+
+> Proje aktif olarak geliştirilmektedir. Güncel sürüm; çoklu PDF desteği, kalıcı sohbet geçmişi ve kaynak gösterimi sunar.
